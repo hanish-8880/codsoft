@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <div class="top-buttons">
+            <button class="login-button">Login</button>
+            <button class="signin-button">Sign In</button>
+            <button class="about-button">About Us</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="box">
+            <h2>About Me</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur lacinia nunc, vel porta sapien pulvinar non. Duis feugiat leo ac metus cursus.</p>
+            <button class="about-me-button">Learn More</button>
+        </div>
+        <div class="box">
+            <h2>About My Projects</h2>
+            <p>Nulla at semper erat, ut suscipit justo. Vivamus id ex fermentum, hendrerit metus eget, dignissim sem.</p>
+            <button class="about-projects-button">Learn More</button>
+        </div>
+        <div class="box">
+            <h2>About My Details</h2>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor lacinia odio, eget fringilla dui pellentesque at.</p>
+            <button class="about-details-button">Learn More</button>
+        </div>
+    </main>
+
+    <footer>
+        <!-- Footer content goes here -->
+    </footer>
+</body>
+</html>
